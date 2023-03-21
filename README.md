@@ -10,8 +10,9 @@ Blog with Django3
 На странице не одно меню, при нажатии на кнопко "подробнее" на странице новостей , открывается вся новость (используется <int:pk>)
 При клике на меню происходит переход по заданному в нем URL. URL может быть задан как явным образом, так и через named url.
 Администратор Django3:
-               
+           
 ![image](https://user-images.githubusercontent.com/119942030/226596692-111c75e9-ca68-49b0-90c6-b878c2d19bd1.png)
+
 ![image](https://user-images.githubusercontent.com/119942030/226596918-eaf326b7-80e9-4638-ade9-5e3a3ad43d58.png)
 Возможность редактирования:
 ![image](https://user-images.githubusercontent.com/119942030/226597046-21bf6ad5-957f-402d-bb9a-207407ef864d.png)
