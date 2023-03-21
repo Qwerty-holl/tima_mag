@@ -22,8 +22,8 @@ def contact(request):
         email = request.POST['email']
         number = request.POST['number']
         text = request.POST['text']
-        my_email = "tima_holl@mail.ru"
-        password = "qfyLrAV7wRpaQ6AQQDFw"
+        my_email = "YOUR EMAIL"
+        password = "YOUR PASSWORD"
         with smtplib.SMTP("smtp.mail.ru") as connection:
             connection.starttls()
             connection.login(user=my_email, password=password)
