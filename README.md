@@ -13,7 +13,7 @@ Blog with Django3
            
 ![image](https://user-images.githubusercontent.com/119942030/226596692-111c75e9-ca68-49b0-90c6-b878c2d19bd1.png)
 
-![image](https://user-images.githubusercontent.com/119942030/226596918-eaf326b7-80e9-4638-ade9-5e3a3ad43d58.png)
+![image](https://user-images.githubusercontent.com/119942030/226597641-fdde442c-af4d-46bc-b3f9-c4e5eaec38e1.png)
 Возможность редактирования:
 ![image](https://user-images.githubusercontent.com/119942030/226597046-21bf6ad5-957f-402d-bb9a-207407ef864d.png)
 Главная страница сайта
