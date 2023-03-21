@@ -1,0 +1,18 @@
+{% extends 'main/layout.html'%}
+
+{%block title%}Оставь заявку и мы свяжемся с тобой{% endblock %}
+
+
+{%block content%}
+    <div class="feature">
+        <h1>Оставь заявку и мы свяжемся с тобой</h1>
+      <form method="post" action="{% url 'contact' %}">
+            {% csrf_token %}
+            {{ form.title }}<br>
+            {{ form.email }}<br>
+            {{ form.number }}<br>
+            {{ form.text }}<br>
+          <button class="btn btn-success" type="submit">Отправить заявку</button>
+      </form>
+    </div>
+{% endblock %}
